@@ -1,75 +1,89 @@
-<h1 align="center">Hi 👋, I'm Yamen Morcel</h1>
-<h3 align="center">Software developer passionate about learning and building cool stuff.</h3>
-<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yamen-m&label=Profile%20views&color=0e75b6&style=flat" alt="yamen-m" />
-  <a href="https://github.com/yamen-m?tab=followers">
-    <img src="https://img.shields.io/github/followers/yamen-m?label=Follow&style=social" alt="GitHub Followers">
-  </a>
+  <a href="https://yamenmorcel.dev"><img src="assets/banner.svg" width="100%" alt="Yamen Morcel — software developer · web · desktop · embedded · ML" /></a>
 </p>
 
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=yamen-m&theme=dracula&column=5&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-### About me
-
-- 🌱 I'm currently building my foundations in **Machine Learning**
-- 💡 Love tackling problems and exploring new technologies
-
-### Languages and Tools:
-
-<div align="left">
-  <span title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></span>_
-  <span title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /></span>_
-  <span title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></span>_
-  <span title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></span>_
-  <span title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></span>_
-  <span title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></span>_
-  <span title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" /></span>_
-  <span title="JestJS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /></span>  
-  <img width="10" />
-  <span title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></span>_
-  <span title="Svelte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" /></span>_
-  <span title=".Net Core"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" /></span>
-  <img width="10" />
-  <span title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></span>_
-  <span title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" /></span>_
-  <span title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></span>_
-  <span title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /></span>_
-   <span title="Microsoft SQL Server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" /></span>
-  <img width="10" />
-  <span title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" /></span>_
-  <span title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></span>_
-  <span title="Godot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" /></span>_
-  <span title="Arduino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" /></span>_
-  <span title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /></span>
-</div>
-
-### Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/yamen-morcel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamen-morcel" height="30" width="40" /></a>
-<a href="https://kaggle.com/yamenmorcel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yamenmorcel" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://yamenmorcel.dev"><img src="https://img.shields.io/badge/Website-yamenmorcel.dev-0F766E?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/yamen-morcel"><img src="https://img.shields.io/badge/LinkedIn-yamen--morcel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/yamenmorcel"><img src="https://img.shields.io/badge/Kaggle-yamenmorcel-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://github.com/yamen-m?tab=followers"><img src="https://img.shields.io/github/followers/yamen-m?label=followers&style=flat-square&logo=github&color=0F766E" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yamen-m&label=views&color=0F766E&style=flat-square" alt="Profile views" />
 </p>
 
-### 📊 GitHub Stats
+```yaml
+name:      Yamen Morcel
+role:      Software Developer
+builds:    [web, desktop, embedded]
+learning:  Machine Learning
+enjoys:    hard problems, new tech
+```
 
-<div align="center">
-</div>
+### Selected work
 
-###
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yamen-M/HealthManagementSystem"><b>Health Management System</b></a><br />
+      <sub>Desktop app that streamlines appointment booking and medical records.</sub><br />
+      <code>C#</code> <code>.NET</code> <code>WinForms</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yamen-M/arduino-sequence-auth"><b>Arduino Sequence Auth</b></a><br />
+      <sub>Button-sequence authentication with real-time LED feedback.</sub><br />
+      <code>C++</code> <code>Arduino</code> <code>Embedded</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://kelir-games.itch.io/alien-invasion-dogs-rescue"><b>Alien Invasion: Dog's Rescue</b></a><br />
+      <sub>Retro run-and-gun side-scroller built by a two-person team for the Gaming Academy 4.0 game jam. <a href="https://kelir-games.itch.io/alien-invasion-dogs-rescue">Play in browser</a> · <a href="https://github.com/Yamen-M/retro-sidescroller">Source</a></sub><br />
+      <code>Godot</code> <code>GDScript</code> <code>Game Jam</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yamen-M/Battleship"><b>Battleship</b></a><br />
+      <sub>Classic Battleship with an AI opponent and interactive ship placement.</sub><br />
+      <code>Web</code> <code>Game AI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yamen-M/knights-travails"><b>Knights Travails</b></a><br />
+      <sub>Shortest knight path on a chessboard using breadth-first search.</sub><br />
+      <code>Algorithms</code> <code>BFS</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Yamen-M/weather-app"><b>Weather App</b></a><br />
+      <sub>Real-time weather with 4-day forecasts and alerts.</sub><br />
+      <code>Web</code> <code>REST API</code>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamen-m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yamen-m&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yamen-M&theme=aura&mode=weekly" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamen-m&radius=16&theme=react&area=true&order=5&hide_title=true&bg_color=15141b&point=61ffca&color=61ffca&line=a277ff" height="300" alt="activity-graph graph"  />
-</div>
+### Toolbox
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Csvelte%2Cnodejs%2Cexpress%2Cdotnet%2Cjest%2Cpostgres%2Cmysql%2Clinux%2Cgit%2Cgodot%2Carduino%2Cfigma&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py%2Ccpp%2Ccs%2Cts%2Cjs%2Chtml%2Ccss%2Creact%2Csvelte%2Cnodejs%2Cexpress%2Cdotnet%2Cjest%2Cpostgres%2Cmysql%2Clinux%2Cgit%2Cgodot%2Carduino%2Cfigma&perline=10&theme=light" alt="Python, C++, C#, TypeScript, JavaScript, HTML, CSS, React, Svelte, Node.js, Express, .NET, Jest, PostgreSQL, MySQL, Linux, Git, Godot, Arduino, Figma" />
+</picture>
+
+### Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-mu.vercel.app/?username=yamen-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=5&title=Experience%2CCommits%2CRepositories%2CFollowers%2CIssues" />
+    <img src="https://github-profile-trophy-mu.vercel.app/?username=yamen-m&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=5&title=Experience%2CCommits%2CRepositories%2CFollowers%2CIssues" alt="GitHub trophies" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yamen-m&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=C9D1D9" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=yamen-m&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=0F766E&text_color=24292F" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Yamen-M&mode=weekly&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakNum=5EEAD4&currStreakLabel=5EEAD4&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+    <img height="170" src="https://streak-stats.demolab.com?user=Yamen-M&mode=weekly&hide_border=true&background=FFFFFF&ring=0F766E&fire=0F766E&currStreakNum=0F766E&currStreakLabel=0F766E&sideNums=24292F&sideLabels=57606A&dates=57606A&stroke=D0D7DE" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center"><sub>Thanks for stopping by ✦</sub></p>
