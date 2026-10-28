@@ -77,10 +77,6 @@ enjoys:    hard problems, new tech
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yamen-m&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=C9D1D9" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=yamen-m&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=0F766E&text_color=24292F" alt="GitHub stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Yamen-M&mode=weekly&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakNum=5EEAD4&currStreakLabel=5EEAD4&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
     <img height="170" src="https://streak-stats.demolab.com?user=Yamen-M&mode=weekly&hide_border=true&background=FFFFFF&ring=0F766E&fire=0F766E&currStreakNum=0F766E&currStreakLabel=0F766E&sideNums=24292F&sideLabels=57606A&dates=57606A&stroke=D0D7DE" alt="GitHub streak" />
   </picture>
